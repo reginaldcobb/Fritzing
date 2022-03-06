@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+<!-- Created with Fritzing (http://www.fritzing.org/) -->
+<svg xmlns="http://www.w3.org/2000/svg" y="0in" viewBox="0 0 15.367 13.8135" baseProfile="tiny" height="0.543839in" version="1.2"  x="0in" width="0.605in" xmlns:svg="http://www.w3.org/2000/svg">
+    <desc>
+        <referenceFile>sparkfun-connectors_1x06-smd_pcb.svg</referenceFile>
+    </desc>
+    <g id="copper1">
+        <rect y="8.88178e-16" stroke-linecap="round" id="connector3pad" height="3" stroke="none" stroke-width="0" x="8.4535" width="1" fill="#F7BD13" connectorname="4"/>
+        <rect y="8.88178e-16" stroke-linecap="round" id="connector4pad" height="3" stroke="none" stroke-width="0" x="10.9935" width="1" fill="#F7BD13" connectorname="5"/>
+        <rect y="8.88178e-16" stroke-linecap="round" id="connector5pad" height="3" stroke="none" stroke-width="0" x="13.5335" width="1" fill="#F7BD13" connectorname="6"/>
+        <rect y="8.88178e-16" stroke-linecap="round" id="connector2pad" height="3" stroke="none" stroke-width="0" x="5.9135" width="1" fill="#F7BD13" connectorname="3"/>
+        <rect y="8.88178e-16" stroke-linecap="round" id="connector1pad" height="3" stroke="none" stroke-width="0" x="3.3735" width="1" fill="#F7BD13" connectorname="2"/>
+        <rect y="8.88178e-16" stroke-linecap="round" id="connector0pad" height="3" stroke="none" stroke-width="0" x="0.8335" width="1" fill="#F7BD13" connectorname="1"/>
+        <circle r="0.7" id="nonconn0" cx="2.6035" stroke="black" stroke-width="0" fill="black" cy="6.5"/>
+        <circle r="0.7" id="nonconn1" cx="12.7635" stroke="black" stroke-width="0" fill="black" cy="6.5"/>
+        <g id="copper0">
+            <circle r="0.7" id="nonconn2" cx="2.6035" stroke="black" stroke-width="0" fill="black" cy="6.5"/>
+            <circle r="0.7" id="nonconn3" cx="12.7635" stroke="black" stroke-width="0" fill="black" cy="6.5"/>
+        </g>
+    </g>
+    <g id="silkscreen">
+        <line y2="5.25" stroke-linecap="round" x1="15.3035" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="0.0635" y1="5.25"/>
+        <line y2="7.75" stroke-linecap="round" x1="0.0635" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="0.0635" y1="5.25"/>
+        <line y2="7.75" stroke-linecap="round" x1="0.0635" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="1.3335" y1="7.75"/>
+        <line y2="7.75" stroke-linecap="round" x1="1.3335" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="3.8735" y1="7.75"/>
+        <line y2="7.75" stroke-linecap="round" x1="3.8735" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="6.4135" y1="7.75"/>
+        <line y2="7.75" stroke-linecap="round" x1="6.4135" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="8.9535" y1="7.75"/>
+        <line y2="7.75" stroke-linecap="round" x1="8.9535" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="11.4935" y1="7.75"/>
+        <line y2="7.75" stroke-linecap="round" x1="11.4935" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="14.0335" y1="7.75"/>
+        <line y2="7.75" stroke-linecap="round" x1="14.0335" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="15.3035" y1="7.75"/>
+        <line y2="5.25" stroke-linecap="round" x1="15.3035" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="15.3035" y1="7.75"/>
+        <line y2="13.75" stroke-linecap="round" x1="14.0335" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="14.0335" y1="7.75"/>
+        <line y2="13.75" stroke-linecap="round" x1="11.4935" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="11.4935" y1="7.75"/>
+        <line y2="13.75" stroke-linecap="round" x1="8.9535" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="8.9535" y1="7.75"/>
+        <line y2="13.75" stroke-linecap="round" x1="6.4135" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="6.4135" y1="7.75"/>
+        <line y2="13.75" stroke-linecap="round" x1="3.8735" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="3.8735" y1="7.75"/>
+        <line y2="13.75" stroke-linecap="round" x1="1.3335" stroke="#f0f0f0" class="other" stroke-width="0.127" x2="1.3335" y1="7.75"/>
+    </g>
+</svg>
